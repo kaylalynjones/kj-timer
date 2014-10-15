@@ -2,7 +2,7 @@
   'use strict';
   angular.module('kj-timer')
   .controller('MainCtrl', ['$scope', function($scope){
-    $scope.greeting = 'Hello World';
+    $scope.greeting = 'Get it in time!';
   }]);
 
 })();
