@@ -1,5 +1,15 @@
 /* Empty. Add your own CSS if you like */
 .content {
-  background-color: #FDFBE6;
+  background-color: #fbfbfb;
   color: #CC5D41;
+}
+.display {
+  height: 60px;
+  width: 100%;
+  text-align: center;
+  color: #CC5D41;
+}
+.footer {
+  color: #fbfbfb;
+  text-align: center;
 }
